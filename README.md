@@ -45,5 +45,5 @@ The application properly handles the following cases:
 2. Inside the project folder, create a file named `config.js`
 3. Add your OpenWeather API key:
 ```js
-export const API_KEY = "YOUR_API_KEY_HERE";
+
 export const BASE_URL = "https://api.openweathermap.org/data/2.5";
