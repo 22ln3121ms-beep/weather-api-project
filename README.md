@@ -45,7 +45,6 @@ project_structure:
   ignored_files:
     - config.js
     
-    ---
 installation:
 🔗 CLONE REPOSITORY LINK 
  ```bash
@@ -106,3 +105,4 @@ This project is for educational purposes only.
 OpenWeather for providing the free public API
 
 Instructor and course materials for guidance
+
